@@ -1,6 +1,6 @@
-<!-- .slide: data-state="dim" data-background="/resources/hackathon.jpg" -->
+<!-- .slide: data-state="dim" data-background="../resources/hackathon.jpg" -->
 
-2x @ Techsylvania! 
+2x @ Techsylvania!
 
 ex-PayPal/Braintree <!-- .element: class="fragment" -->
 
