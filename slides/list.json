@@ -1,0 +1,20 @@
+[
+    "index.md",
+    [
+        "about-me.md",
+        "about-me-details.md"
+    ],
+    "about-this-talk.md",
+    "the-problem.md",
+    "other-solutions.md",
+    "the-problem-with-other-solutions.md",
+    [
+        "a-solution.md",
+        "es6-modules.md",
+        "es6-continued.md",
+        "riot.md",
+        "rollup.md"
+    ],
+    "comparison.md",
+    "es6-continued.md"
+]
