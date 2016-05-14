@@ -1,3 +1,5 @@
+<!-- .slide: data-state="dim" data-background="resources/fire.jpg" -->
+
 ##  This Talk
 
 1. Learn some JS! <!-- .element: class="fragment" -->

@@ -1,4 +1,6 @@
-##  Some Problems
+<!-- .slide: data-state="dim" data-background="resources/fire.jpg" -->
+
+##  Problems
 
 1. I am not a hardcore JS Dev <!-- .element: class="fragment" -->
 2. How to make a browser library? <!-- .element: class="fragment" -->

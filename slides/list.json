@@ -33,13 +33,32 @@
         "npm.md",
         "npm-2.md",
         "npm-3.md",
-        "punch-2.md"
+        "punch-2.md",
+        "liftoff.md"
     ],
     [
-        "riot.md"
+      "ui-management.md",
+      "crazy.md",
+      "angular.md",
+      "react.md",
+      "riot.md"
     ],
     [
-        "redux.md"
+        "riot-2.md",
+        "riot-3.md",
+        "riot-4.md",
+        "riot-5.md",
+        "tunnel.md"
+    ],
+    [
+        "state-management.md",
+        "crazy.md",
+        "cat.md",
+        "redux.md",
+        "redux-2.md",
+        "redux-3.md",
+        "redux-4.md",
+        "redux-5.md"
     ],
     "demo.md",
     [
@@ -48,5 +67,7 @@
       "comparison-3.md",
       "happy.md"
     ],
+    "conclusions.md",
+    "notes.md",
     "questions.md"
 ]

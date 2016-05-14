@@ -1,6 +1,10 @@
+<!-- .slide: data-state="dim" data-background="resources/burito.jpg" -->
+
 # Rollup
 
-Write ES6 (aka ES2015)
+> The next-generation JavaScript module bundler
+
+Write ES6 (aka ES2015) <!-- .element: class="fragment" -->
 
 Bundle into single file <!-- .element: class="fragment" -->
 
