@@ -6,5 +6,7 @@
 
 Hacker @ [betta.io](https://betta.io)
 
+[@cbetta](https://twitter.com/cbetta)
+
 note:
     Hire me!

@@ -2,19 +2,51 @@
     "index.md",
     [
         "about-me.md",
-        "about-me-details.md"
+        "about-me-2.md"
     ],
-    "about-this-talk.md",
-    "the-problem.md",
-    "other-solutions.md",
-    "the-problem-with-other-solutions.md",
     [
-        "a-solution.md",
-        "es6-modules.md",
-        "es6-continued.md",
-        "riot.md",
+        "punch.md",
+        "punch-2.md",
+        "punch-3.md"
+    ],
+    [
+        "the-problems.md",
+        "crazy.md",
+        "the-problems-2.md",
+        "cat.md"
+    ],
+    [
+        "bundling.md",
+        "browserify.md",
+        "webpack.md",
         "rollup.md"
     ],
-    "comparison.md",
-    "es6-continued.md"
+    [
+        "rollup-2.md",
+        "es6-modules.md",
+        "es6-continued.md",
+        "es6-continued-2.md",
+        "es6-continued-3.md",
+        "rollup-3.md",
+        "rollup-4.md",
+        "rollup-5.md",
+        "npm.md",
+        "npm-2.md",
+        "npm-3.md",
+        "punch-2.md"
+    ],
+    [
+        "riot.md"
+    ],
+    [
+        "redux.md"
+    ],
+    "demo.md",
+    [
+      "comparison.md",
+      "comparison-2.md",
+      "comparison-3.md",
+      "happy.md"
+    ],
+    "questions.md"
 ]
