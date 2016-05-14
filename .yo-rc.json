@@ -1,6 +1,6 @@
 {
   "generator-reveal": {
-    "presentationTitle": "Lightweight browser libraries with Rollup, Riot and Redux",
+    "presentationTitle": "Lightweight JS with Rollup, Riot and Redux",
     "packageVersion": "1.0.0",
     "useSass": true,
     "deployToGithubPages": true,

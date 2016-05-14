@@ -1,6 +1,6 @@
 ##  Rollup
 
-The next-generation JavaScript module bundler
+> The next-generation JavaScript module bundler
 
 [rollupjs.org](https://rollupjs.org)
 

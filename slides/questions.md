@@ -6,7 +6,7 @@
 
 Cristiano Betta | [@cbetta](https://twitter.com/cbetta) | [betta.io](https://betta.io)
 
-[cbetta.github.io/slides-techsylvania-2016](http://cbetta.github.io/slides-techsylvania-2016/)
+[go.betta.io/lightweightjs](http://go.betta.io/lightweightjs)
 
 note:
     Hire me!
