@@ -48,8 +48,8 @@ section.has-light-background {
 	}
 }
 
-.dim .backgrounds {
-	opacity: 0.2;
+.dim .backgrounds, .dim .print-pdf .reveal .present[data-state='dim'] .slide-background {
+	opacity: 0.2 !important;
 }
 
 img.circle {
