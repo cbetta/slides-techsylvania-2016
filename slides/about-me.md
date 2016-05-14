@@ -1,6 +1,6 @@
-<!-- .slide: data-state="dim" data-background="../resources/hackathon.jpg" -->
+<!-- .slide: data-state="dim" data-background="resources/hackathon.jpg" -->
 
-![Cristiano Betta](../resources/cbetta.jpg) <!-- .element: class="circle" -->
+![Cristiano Betta](resources/cbetta.jpg) <!-- .element: class="circle" -->
 
 ##  Cristiano Betta
 
