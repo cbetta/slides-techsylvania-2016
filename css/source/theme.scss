@@ -88,6 +88,11 @@ img.circle {
 	border-radius: 50%;
 }
 
+img.transparent {
+	background-color: transparent !important;
+  border: 0 !important; 
+}
+
 // Theme template ------------------------------
 @import "../../bower_components/reveal.js/css/theme/template/theme";
 // ---------------------------------------------
