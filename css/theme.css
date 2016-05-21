@@ -37,6 +37,10 @@ section.has-light-background, section.has-light-background h1, section.has-light
 img.circle {
   border-radius: 50%; }
 
+img.transparent {
+  background-color: transparent !important;
+  border: 0 !important; }
+
 /*********************************************
  * GLOBAL STYLES
  *********************************************/
