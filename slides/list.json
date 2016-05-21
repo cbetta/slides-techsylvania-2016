@@ -18,8 +18,11 @@
     [
         "bundling.md",
         "browserify.md",
+        "browserify2.md",
         "webpack.md",
-        "rollup.md"
+        "webpack2.md",
+        "rollup.md",
+        "rollup-1.md"
     ],
     [
         "rollup-2.md",
@@ -38,12 +41,13 @@
     ],
     [
       "ui-management.md",
-      "crazy.md",
+      "crazy2.md",
       "angular.md",
       "react.md",
       "riot.md"
     ],
     [
+        "riot-1.md",
         "riot-2.md",
         "riot-3.md",
         "riot-4.md",
@@ -52,8 +56,8 @@
     ],
     [
         "state-management.md",
-        "crazy.md",
-        "cat.md",
+        "crazy3.md",
+        "cat2.md",
         "redux.md",
         "redux-2.md",
         "redux-3.md",

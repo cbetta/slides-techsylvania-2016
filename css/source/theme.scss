@@ -9,8 +9,40 @@
 
  // See ../../bower_components/reveal.js/css/theme/README.md
  // for further explanations on how to create a custom reveal.js theme.
-
 // Default mixins and settings -----------------
+
+@font-face {
+    font-family: 'exobold';
+    src: url('/resources/exo-bold-webfont.woff2') format('woff2'),
+         url('/resources/exo-bold-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'exoregular';
+    src: url('/resources/exo-regular-webfont.woff2') format('woff2'),
+         url('/resources/exo-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'exolight';
+    src: url('/resources/exo-light-webfont.woff2') format('woff2'),
+         url('/resources/exo-light-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'exothin';
+    src: url('/resources/exo-thin-webfont.woff2') format('woff2'),
+         url('/resources/exo-thin-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
 @import "../../bower_components/reveal.js/css/theme/template/mixins";
 @import "../../bower_components/reveal.js/css/theme/template/settings";
 // ---------------------------------------------
@@ -27,8 +59,8 @@ $mainColor: #AAB1BF;
 $headingColor: #DB6B73;
 
 $mainFontSize: 38px;
-$mainFont: 'Source Sans Pro', Helvetica, sans-serif;
-$headingFont: 'Source Sans Pro', Helvetica, sans-serif;
+$mainFont: 'exolight', Helvetica, sans-serif;
+$headingFont: 'exobold', Helvetica, sans-serif;
 $headingTextShadow: none;
 $headingLetterSpacing: normal;
 $headingTextTransform: uppercase;

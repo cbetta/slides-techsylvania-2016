@@ -4,6 +4,30 @@
  * Copyright (C) 2015 Hakim El Hattab, http://hakim.se
  */
 @import url(../bower_components/reveal.js/lib/font/source-sans-pro/source-sans-pro.css);
+@font-face {
+  font-family: 'exobold';
+  src: url("/resources/exo-bold-webfont.woff2") format("woff2"), url("/resources/exo-bold-webfont.woff") format("woff");
+  font-weight: normal;
+  font-style: normal; }
+
+@font-face {
+  font-family: 'exoregular';
+  src: url("/resources/exo-regular-webfont.woff2") format("woff2"), url("/resources/exo-regular-webfont.woff") format("woff");
+  font-weight: normal;
+  font-style: normal; }
+
+@font-face {
+  font-family: 'exolight';
+  src: url("/resources/exo-light-webfont.woff2") format("woff2"), url("/resources/exo-light-webfont.woff") format("woff");
+  font-weight: normal;
+  font-style: normal; }
+
+@font-face {
+  font-family: 'exothin';
+  src: url("/resources/exo-thin-webfont.woff2") format("woff2"), url("/resources/exo-thin-webfont.woff") format("woff");
+  font-weight: normal;
+  font-style: normal; }
+
 section.has-light-background, section.has-light-background h1, section.has-light-background h2, section.has-light-background h3, section.has-light-background h4, section.has-light-background h5, section.has-light-background h6 {
   color: #222; }
 
@@ -21,7 +45,7 @@ body {
   background-color: #272B34; }
 
 .reveal {
-  font-family: "Source Sans Pro", Helvetica, sans-serif;
+  font-family: "exolight", Helvetica, sans-serif;
   font-size: 38px;
   font-weight: normal;
   color: #AAB1BF; }
@@ -47,7 +71,7 @@ body {
 .reveal h6 {
   margin: 0 0 20px 0;
   color: #DB6B73;
-  font-family: "Source Sans Pro", Helvetica, sans-serif;
+  font-family: "exobold", Helvetica, sans-serif;
   font-weight: 600;
   line-height: 1.2;
   letter-spacing: normal;

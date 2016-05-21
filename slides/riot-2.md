@@ -1,8 +1,6 @@
 ##  Riot
 
-> A React-like user interface micro-library
-
-Custom Tags  <!-- .element: class="fragment" -->
+Custom Tags 
 
 Virtual Dom  <!-- .element: class="fragment" -->
 
