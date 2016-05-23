@@ -7,7 +7,8 @@
     [
         "punch.md",
         "punch-2.md",
-        "punch-3.md"
+        "punch-3.md",
+        "doom.md"
     ],
     [
         "the-problems.md",
@@ -64,7 +65,10 @@
         "redux-4.md",
         "redux-5.md"
     ],
-    "demo.md",
+    [
+      "demo.md",
+      "demo-2.md"
+    ],
     [
       "comparison.md",
       "comparison-2.md",
