@@ -2,10 +2,10 @@
 
 2x @ _Techsylvania!_
 
-ex-PayPal/Braintree <!-- .element: class="fragment" -->
+former PayPal/Braintree <!-- .element: class="fragment" -->
 
 Ruby/JS Developer <!-- .element: class="fragment" -->
 
-Director @ Work Betta <!-- .element: class="fragment" -->
+Consultant @ Work Betta <!-- .element: class="fragment" -->
 
-Founder @ punch.rocks  <!-- .element: class="fragment" -->
+Code Monkey @ punch.rocks  <!-- .element: class="fragment" -->

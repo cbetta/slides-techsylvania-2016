@@ -2,7 +2,7 @@
 
 ![Cristiano Betta](resources/cbetta.jpg) <!-- .element: class="circle" -->
 
-##  Questions?
+##  Thank you
 
 Cristiano Betta | [@cbetta](https://twitter.com/cbetta) | [betta.io](https://betta.io)
 
