@@ -86,11 +86,12 @@ section.has-light-background {
 
 img.circle {
 	border-radius: 50%;
+  width: 200px;
 }
 
 img.transparent {
 	background-color: transparent !important;
-  border: 0 !important; 
+  border: 0 !important;
 }
 
 // Theme template ------------------------------
